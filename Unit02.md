@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Greatest Common Divisor** <span id="2"></span> 
 *Even when an integer is not prime, it can still behave in a prime-like
 fashion with many other integers. We call two integers that act this

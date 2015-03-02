@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Congruence, with Applications** <span id="3"></span> 
 *If you weren't already convinced of our claim in Unit 1 that the
 remainder is more interesting and useful for number theory than

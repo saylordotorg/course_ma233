@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Multiplicative Functions, with Applications** <span
 id="6"></span> 
 *Our final topic consists of* **multiplicative functions***. We begin,

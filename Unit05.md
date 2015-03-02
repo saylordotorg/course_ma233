@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Continued Fractions** <span id="5"></span> 
 *In this, the second of our “sightseeing” units, we visit* **continued
 fractions**.*Continued fractionsare a surprisingly ancient topic that

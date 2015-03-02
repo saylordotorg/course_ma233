@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit02
+previous: ../../../
+---
 Course Syllabus for "MA233: Elementary Number Theory"
 -----------------------------------------------------
 

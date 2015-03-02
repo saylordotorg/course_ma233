@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Numbers that Lack Integrity** <span id="4"></span> 
 *This unit focuses primarily on objects that solve mathematical
 problems, but are neither integers, arithmetic combinations of integers,

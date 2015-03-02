@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA233: Elementary Number Theory"
+course_description: "A detailed introduction to the study of integers, including their fundamental properties and ways to represent numbers."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Prime Numbers** <span id="1"></span> 
 *One of the greatest mathematicians of all time, C. F. Gauss, remarked
 that “Mathematics is the queen of the sciences, and number theory is the
