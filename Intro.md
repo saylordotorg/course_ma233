@@ -122,3 +122,4 @@ yourself.
 - [Unit 5](https://legacy.saylor.org/ma233/Unit05/)
 - [Unit 6](https://legacy.saylor.org/ma233/Unit06/)
 - [Unit 7](https://legacy.saylor.org/ma233/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA233/MA233-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA233/MA233-FinalExam-Answers.html)
