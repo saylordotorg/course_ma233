@@ -49,7 +49,7 @@ id="3.1.1"></span> 
     Number Theory - Section 4.1: Introduction to Congruences”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 4.1: Introduction to
-    Congruences”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Congruences”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 4.1: Introduction to Congruences” on
@@ -63,7 +63,7 @@ id="3.1.1"></span> 
     Number Theory - Congruence Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Congruence
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-4 and 6-11 on page 83.  
@@ -79,7 +79,7 @@ id="3.1.1"></span> 
 **3.1.2 Review of Equivalence Relations** <span id="3.1.2"></span> 
 -   **Reading: Elias Zakon’s “Mathematical Analysis: Volume I”**
     Link: Elias Zakon’s [“Mathematical Analysis: Volume
-    I”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    I”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Read pages 12-14, starting from the heading
@@ -92,7 +92,7 @@ id="3.1.1"></span> 
     Equivalence Relation Exercise”**
     Link: Elias Zakon’s [“Mathematical Analysis: Volume I - Equivalence
     Relation
-    Exercise”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 8 on page 15.  
@@ -112,7 +112,7 @@ id="3.1.3"></span> 
     Is a Symmetric Relation”**
     Link: The Saylor Foundation's [“Justification that Congruence Is a
     Symmetric
-    Relation”](http://www.saylor.org/site/wp-content/uploads/2014/05/3.1.3-Confluence-PartialSolution-FINAL.pdf)
+    Relation”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/3.1.3-Confluence-PartialSolution-FINAL.pdf)
     (PDF)  
       
      Instructions: (1) Show that congruence is an equivalence relation,
@@ -128,7 +128,7 @@ id="3.1.4"></span> 
 -   **Reading: Wissam Raji’s “An Introductory Course in Elementary
     Number Theory”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read pages 81-82, starting immediately after “Example
@@ -142,7 +142,7 @@ id="3.1.4"></span> 
     Number Theory - Section 4.2.1: Residue Systems”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 4.2.1: Residue
-    Systems”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 4.2.1 Residue Systems on pages 84-85.  
@@ -154,7 +154,7 @@ id="3.1.4"></span> 
     Number Theory - Residue Systems Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Residue Systems
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1 and 2 on page 86.  
@@ -171,7 +171,7 @@ id="3.1.4"></span> 
 -   **Web Media: The Saylor Foundation’s Sage Lab: “Residue
     Arithmetic”**
     Link: The Saylor Foundation’s Sage Lab: [“Residue
-    Arithmetic”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    Arithmetic”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the third one
@@ -203,7 +203,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Number Theory - Section 2.6: Linear Diophantine Equations”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.6: Linear Diophantine
-    Equations”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Reread “Section 2.6 Linear Diophantine Equations on
@@ -217,7 +217,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Number Theory - Linear Congruences”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Linear
-    Congruences”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Congruences”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 4.3 Linear Congruences” on pages
@@ -230,7 +230,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Number Theory - Linear Congruence Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Linear Congruence
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-4 on pages 88-89.  
@@ -251,7 +251,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Introduction to Section 4.4: The Chinese Remainder Theorem
     and Section 4.4.1: Direct
-    Solution”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Solution”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read the introduction to “Section 4.4: The Chinese
@@ -266,7 +266,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Exercises”**
     Link: Wissam Raji’s [“An Introductory Coursein Elementary Number
     Theory - Chinese Remainder Theorem Direct Solution
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-3 on page 91.  
@@ -284,7 +284,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Number Theory - Section 4.4.2: Incremental Solution”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 4.4.2: Incremental
-    Solution”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Solution”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 4.4.2: Incremental Solution” on pages
@@ -298,7 +298,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Chinese Remainder Theorem Incremental Solution
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-3 on page 92.  
@@ -317,7 +317,7 @@ well. As you will see,* *you already knowhow to solve these equations!*
     and Polynomial Factorization”**
     Link: The Saylor Foundation’s Sage Lab: [“Chinese Remainders and
     Polynomial
-    Factorization”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    Factorization”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked lab. Upload the fourth one
@@ -338,7 +338,7 @@ id="3.3.1"></span> 
     Theory - Introduction to Section 4.5: Field Properties of Residues
     Modulo a Prime, and a Primality Test and Section 4.5.1: When Is a
     System of Residues a
-    Field?”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Field?”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read the introduction to “Section 4.5: Field
@@ -356,7 +356,7 @@ id="3.3.2"></span> 
     Primality Test”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 4.5.2: Fermat’s Little Theorem as a Primality
-    Test”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Test”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 4.5.2: Fermat’s Little Theorem as a
@@ -369,7 +369,7 @@ id="3.3.2"></span> 
     Number Theory - Fermat’s Little Theorem Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Fermat’s Little Theorem
-    Exercise”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 1 on page 96.  

@@ -58,7 +58,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Chapter 1: Introduction and Section 1.1: Algebraic
     Operations with
-    Integers”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: A **ring** is a set with two operations, addition and
@@ -75,7 +75,7 @@ Upon successful completion of this unit, you will be able to:
     Additive Inverse of any Element Is Unique”**
     Link: The Saylor Foundation’s [“Justification that the Additive
     Inverse of any Element Is
-    Unique”](http://www.saylor.org/site/wp-content/uploads/2014/05/1.1.1-AdditiveInverseAssessment-FINAL.pdf)
+    Unique”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/1.1.1-AdditiveInverseAssessment-FINAL.pdf)
     (PDF)  
         
      Instructions: This first assessment gives a gentle introduction. We
@@ -94,7 +94,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Rings and Fields Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Rings and Fields
-    Exercise”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercise 1 on page 10.  
@@ -112,7 +112,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 1.2.1: The Well Ordering Principle”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.2.1: The Well Ordering
-    Principle”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Principle”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 1.2.1: The Well Ordering Principle” on
@@ -143,7 +143,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.2.2: The Pigeonhole Principle and Section 1.2.3:
     The Principle of Mathematical
-    Induction”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Induction”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 1.2.2: The Pigeonhole Principle” and
@@ -157,7 +157,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Mathematical Induction Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Mathematical Induction
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 3 and 6 on page 14.  
@@ -176,7 +176,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 3.1: Geometric Numbers”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 3.1: Geometric
-    Numbers”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 3.1: Geometric Numbers” on pages
@@ -189,7 +189,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Geometric Number Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Geometric Number
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercises 1 and 2 on page 59.  
@@ -208,7 +208,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 1.3.1: Integer Divisibility”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.3.1: Integer
-    Divisibility”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Divisibility”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 1.3.1: Integer Divisibility” on pages
@@ -221,7 +221,7 @@ Upon successful completion of this unit, you will be able to:
     Equation (1.6)”**
     Link: The Saylor Foundation’s [“Theorem 4: Sketch of Proof of
     Equation
-    (1.6)”](http://www.saylor.org/site/wp-content/uploads/2014/05/1.2.1-Sketch1.6Assessment-FINAL.pdf)
+    (1.6)”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/1.2.1-Sketch1.6Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Use induction to show that equation (1.6) on page 16
@@ -232,7 +232,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Divisibility Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Divisibility
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1, 4, 6, 7, 11, and 12 on pages
@@ -253,7 +253,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 1.3.2: The Division Algorithm”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.3.2: The Division
-    Algorithm”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Algorithm”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 1.3.2: The Division Algorithm” on pages
@@ -266,7 +266,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Division Algorithm Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Division Algorithm
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercises 2 and 3 on page 17.  
@@ -283,7 +283,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Divisibility Exercises 5 and 8”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Divisibility Exercises 5 and
-    8”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    8”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercises 5 and 8 on page 17. It will help
@@ -307,7 +307,7 @@ Sieve of Eratosthenes** <span id="1.3.1"></span> 
     Number Theory - Section 2.1: The Sieve of Eratosthenes”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.1: The Sieve of
-    Eratosthenes”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Eratosthenes”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 2.1: The Sieve of Eratosthenes” on
@@ -320,7 +320,7 @@ Sieve of Eratosthenes** <span id="1.3.1"></span> 
     Number Theory - The Sieve of Eratosthenes Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - The Sieve of Eratosthenes
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercises 1, 3, and 4 on page 37. Exercise
@@ -341,7 +341,7 @@ id="1.3.2"></span> 
     Number Theory - Section 2.2: Alternate Definition of Prime Number”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.2: Alternate Definition of Prime
-    Number”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Number”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 2.2: Alternate Definition of Prime
@@ -360,7 +360,7 @@ id="1.4.1"></span> 
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.4: Introduction and Section 2.4.1: The
     Fundamental Theorem of
-    Arithmetic”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Arithmetic”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read the introduction to “Section 2.4” on page 41,
@@ -374,7 +374,7 @@ id="1.4.1"></span> 
     Number Theory - Prime Factorization Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Prime Factorization
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercises 1, 2, and 3 on page 46.  
@@ -433,7 +433,7 @@ id="1.4.1"></span> 
     Number Theory - Section 2.3: The infinitude of Primes”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.3: The infinitude of
-    Primes”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Primes”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 2.3: The Infinitude of Primes” on pages
@@ -446,7 +446,7 @@ id="1.4.1"></span> 
     Number Theory - The Infinitude of Primes Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - The Infinitude of Primes
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Try to do Exercises 1, 3, and 4 on pages 40-41.  
@@ -465,7 +465,7 @@ id="1.4.1"></span> 
     How Many Primes Are There?”**
     Link: The Saylor Foundation’s [“Sage Lab: Relatively Speaking, How
     Many Primes Are
-    There?”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    There?”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the first one
@@ -482,7 +482,7 @@ Conjectures Regarding Prime Numbers** <span id="1.5.3"></span> 
     Prime Numbers”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.8: Theorems and Conjectures Involving Prime
-    Numbers”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 2.8: Theorems and Conjectures Involving

@@ -67,7 +67,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 4.2.2: Euler’s φ-Function”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 4.2.2: Euler’s
-    φ-Function”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    φ-Function”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 4.2.2: Euler’s φ-Function” on page
@@ -80,7 +80,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Euler’s φ-Function Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Euler’s φ-Function
-    Exercise”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 3 on page 86.  
@@ -96,7 +96,7 @@ Upon successful completion of this unit, you will be able to:
 **6.1.1 Sage Lab: “Computing φ(*n*)”** <span id="6.1.1"></span> 
 -   **Web Media: The Saylor Foundation’s Sage Lab: “Computing φ(*n*)”**
     Link: The Saylor Foundation’s Sage Lab: [“Computing
-    φ(*n*)”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    φ(*n*)”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the seventh
@@ -110,7 +110,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 5.2.1: The Euler φ-Function”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 5.2.1: The Euler
-    φ-Function”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    φ-Function”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 5.2.1: The Euler φ-Function” on pages
@@ -123,7 +123,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - The Euler φ-Function Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - The Euler φ-Function
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1, 3, 5, 6 on pages 112-113.  
@@ -140,7 +140,7 @@ Upon successful completion of this unit, you will be able to:
 **6.2.1 Sage Lab: “Computing σ(*n*)”** <span id="6.2.1"></span> 
 -   **Web Media: The Saylor Foundation’s Sage Lab: “Computing σ(n)”**
     Link: The Saylor Foundation’s Sage Lab: [“Computing
-    σ(*n*)”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    σ(*n*)”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the eight one
@@ -154,7 +154,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 5.2.2: The Sum-of-Divisors Function”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 5.2.2: The Sum-of-Divisors
-    Function”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Function”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 5.2.2 The Sum-of-Divisors Function” on
@@ -167,7 +167,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Sum-of-Divisors Function Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Sum-of-Divisors Function
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 7 and 8 on page 113. Compute the
@@ -191,7 +191,7 @@ id="6.3.1"></span> 
     Definitions and Properties”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Introduction to Chapter 5 and Section 5.1: Definitions and
-    Properties”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Properties”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read the introduction to “Chapter 5 Multiplicative
@@ -205,7 +205,7 @@ id="6.3.1"></span> 
     Number Theory - Multiplicative Functions Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Multiplicative Functions
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1 and 2 on pages 106-107.  
@@ -226,7 +226,7 @@ id="6.3.2"></span> 
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 5.2.3: The Number-of-Divisors Function and Section
     5.3: The Mobius Function and the Mobius Inversion
-    Formula”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Formula”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 5.2.3: The Number-of-Divisors Function”
@@ -240,7 +240,7 @@ id="6.3.2"></span> 
     Number Theory - Number-of-Divisors and Mobius Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Number-of-Divisors and Mobius
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 7 and 8 on page 113. Compute the
@@ -261,7 +261,7 @@ id="6.3.2"></span> 
     116-118”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Perfect, Mersenne, and Fermat Numbers, pages
-    116-118”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    116-118”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read the beginning of “Section 5.4: Perfect,
@@ -275,7 +275,7 @@ id="6.3.2"></span> 
     Number Theory - Perfect Numbers Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Perfect Numbers
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1, 3, 4, and 5 on pages
@@ -296,7 +296,7 @@ Making Mistakes** <span id="6.5.1"></span> 
     Number Theory - Section 5.4 Perfect, Mersenne, and Fermat Numbers”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 5.4 Perfect, Mersenne, and Fermat
-    Numbers”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Finish reading “Section 5.4: Perfect, Mersenne, and
@@ -309,7 +309,7 @@ Making Mistakes** <span id="6.5.1"></span> 
     Number Theory - Mersenne Primes and Fermat Numbers Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Mersenne Primes and Fermat Numbers
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 7 and 9 on page 121.  
@@ -329,7 +329,7 @@ id="6.6.1"></span> 
     Multiplicative Inverses Modulo n”**
     Link: The Saylor Foundation’s Sage Lab: [“Finding Multiplicative
     Inverses Modulo
-    *n*”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    *n*”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the ninth one
@@ -344,7 +344,7 @@ id="6.6.1"></span> 
     Wilson”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 4.6: Theorems of Fermat, Euler, and
-    Wilson”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Wilson”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Finish reading “Section 4.6: Theorems of Fermat,
@@ -357,7 +357,7 @@ id="6.6.1"></span> 
     Number Theory - Theorems of Fermat, Euler, and Wilson Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Theorems of Fermat, Euler, and Wilson
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1, 3, and 6 on page 101.  
@@ -376,7 +376,7 @@ id="6.6.1"></span> 
     Number Theory - Section 9.1.1: Public Key Cryptography”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 9.1.1: Public Key
-    Cryptography”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Cryptography”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 9.1.1: Public Key Cryptography” on
@@ -390,7 +390,7 @@ id="6.6.1"></span> 
     Number Theory - Section 9.1.2: The RSA Algorithm”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 9.1.2: The RSA
-    Algorithm”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Algorithm”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 9.1.2: The RSA Algorithm” on pages
@@ -403,7 +403,7 @@ id="6.6.1"></span> 
     Number Theory - RSA Algorithm Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - RSA Algorithm
-    Exercise”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 1 on page 190.  
@@ -420,7 +420,7 @@ id="6.6.1"></span> 
 -   **Web Media: The Saylor Foundation’s Sage Lab: “Demonstration of
     RSA”**
     Link: The Saylor Foundation’s Sage Lab: [“Demonstration of
-    RSA”](http://www.saylor.org/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    RSA”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (PDF)  
       
      Instructions: Download the linked set of labs. Upload the last one
@@ -434,7 +434,7 @@ id="6.6.1"></span> 
     Number Theory - Section 9.1.3: Is RSA Safe?”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 9.1.3: Is RSA
-    Safe?”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Safe?”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
         
      Instructions: Read “Section 9.1.3: Is RSA Safe?” on pages
@@ -447,7 +447,7 @@ id="6.6.1"></span> 
     Number Theory - RSA Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - RSA
-    Exercise”](http://www.saylor.org/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 1 on page 191. It’s not important
