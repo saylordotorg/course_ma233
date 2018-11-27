@@ -77,7 +77,7 @@ computer;
  √    have competency in the English language;  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf#_blank);
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf#_blank);
 and  
   
  √    Have completed the following courses from “The Core Program” of
@@ -95,7 +95,7 @@ free online materials. However, the course makes primary use of the
 following materials:
 
 -   Wissam Raji's [*An Introductory Course in Elementary Number
-    Theory*](http://www.saylor.org/site/wp-content/uploads/2013/05/An-Introductory-in-Elementary-Number-Theory.pdf)
+    Theory*](https://resources.saylor.org/archived/wp-content/uploads/2013/05/An-Introductory-in-Elementary-Number-Theory.pdf)
 -   The Sage Foundation's [*The Sage Notebook*](http://www.sagenb.org/)
 
 **Requirements for Completion: **In order to complete this course, you
