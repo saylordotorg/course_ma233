@@ -60,7 +60,7 @@ id="4.1.1"></span> 
     Number Theory - Section 3.2: Irrational Numbers”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 3.2: Irrational
-    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Numbers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 3.2: Irrational Numbers” on pages
@@ -73,7 +73,7 @@ id="4.1.1"></span> 
     Number Theory - Irrational Numbers Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Irrational Numbers
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1 and 2 on page 61.  
@@ -95,7 +95,7 @@ id="4.2.1"></span> 
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Introduction to Section 3.3: Gaussian Integers and Section
     3.3.1: Ring Properties of
-    Z[i]”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Z[i]”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read the introduction to “Section 3.3: Gaussian
@@ -109,7 +109,7 @@ id="4.2.1"></span> 
     Number Theory - Ring Properties of Z[i] Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Ring Properties of Z[i]
-    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 1 on page 63.  
@@ -128,7 +128,7 @@ Algebra”** <span id="4.2.2"></span> 
     Gaussian Integers: Geometry and Algebra”**
     Link: The Saylor Foundation’s Sage Lab: [“Arithmetic of Gaussian
     Integers: Geometry and
-    Algebra”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    Algebra”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (PDF)  
       
      Instructions: Download the linked set of labs. Upload the fifth one
@@ -143,7 +143,7 @@ id="4.2.3"></span> 
     Number Theory - Section 3.3.2: Division”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 3.3.2:
-    Division”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Division”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 3.3.2: Division” on pages 63–68. It
@@ -156,7 +156,7 @@ id="4.2.3"></span> 
     Number Theory - Gaussian Division Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Gaussian Division
-    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 1 on page 68.  
@@ -174,7 +174,7 @@ id="4.2.3"></span> 
     Number Theory - Section 3.3.3 Primality”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 3.3.3
-    Primality”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Primality”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 3.3.3: Primality” on pages 68-69.  
@@ -186,7 +186,7 @@ id="4.2.3"></span> 
     Number Theory - Gaussian Primality Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Gaussian Primality
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-3 and Exercise 6 on page 69.  
@@ -209,7 +209,7 @@ id="4.3.1"></span> 
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Introduction to Section 3.4: Algebraic and Transcendental
     Numbers and Section 3.4.1: The Algebraic Numbers form a
-    Ring”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Ring”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read the introduction to “Section 3.4: Algebraic and
@@ -223,7 +223,7 @@ id="4.3.1"></span> 
     Number Theory - Algebraic Rings Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Algebraic Rings
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-3 on page 74.  
@@ -241,7 +241,7 @@ id="4.3.1"></span> 
     Number Theory - Section 3.4.2: Liouville’s Number”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 3.4.2: Liouville’s
-    Number”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Number”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 3.4.2: Liouville’s Number” on pages
@@ -254,7 +254,7 @@ id="4.3.1"></span> 
     Number Theory - Liouville’s Number Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Liouville’s Number
-    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 4 on page 75.  

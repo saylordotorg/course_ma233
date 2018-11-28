@@ -45,7 +45,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Section 1.5: The Greatest Common Divisor”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.5: The Greatest Common
-    Divisor”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Divisor”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 1.5: The Greatest Common Divisor” on
@@ -58,7 +58,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - GCD Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - GCD
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1, 3, 4, 5, and 6 on page 25.  
@@ -78,7 +78,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory: Section 2.4.1: The Fundamental Theorem of Arithmetic and
     Section 2.4.2: More on the Infinitude of
-    Primes”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Primes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Reread “Section 2.4.1: The Fundamental Theorem of
@@ -92,7 +92,7 @@ Upon successful completion of this unit, you will be able to:
     Number Theory - Infinitude of Primes Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Infinitude of Primes
-    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 4 on page 46.  
@@ -112,7 +112,7 @@ id="2.2.1"></span> 
     Number Theory - Section 1.6: The Euclidean Algorithm”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.6: The Euclidean
-    Algorithm”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf#_blank)
+    Algorithm”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf#_blank)
     (PDF)  
       
      Instructions: Read “Section 1.6: The Euclidean Algorithm” on pages
@@ -125,7 +125,7 @@ id="2.2.1"></span> 
     Number Theory - Euclidean Algorithm Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Euclidean Algorithm
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 2, 3, 4, and 5 on pages 28–29.  
@@ -144,7 +144,7 @@ Algorithm’s Efficiency** <span id="2.2.2"></span> 
     Number Theory - Section 1.7.1: Lame’s Theorem”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.7.1: Lame’s
-    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Theorem”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 1.7.1: Lame’s Theorem” on pages
@@ -157,7 +157,7 @@ Algorithm’s Efficiency** <span id="2.2.2"></span> 
     Number Theory - Upper Bound Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Upper Bound
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 3 and 4 on page 34.  
@@ -175,7 +175,7 @@ Algorithm’s Efficiency** <span id="2.2.2"></span> 
     Number Theory - Section 1.7.2: Binet’s Formula”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 1.7.2: Binet’s
-    Formula”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Formula”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 1.7.2: Binet’s Formula” on pages
@@ -188,7 +188,7 @@ Algorithm’s Efficiency** <span id="2.2.2"></span> 
     Number Theory - Binet’s Formula Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Binet’s Formula
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 5 and 6 on page 34.  
@@ -206,7 +206,7 @@ Algorithm’s Efficiency** <span id="2.2.2"></span> 
     Number Theory - Lucas Sequence Exercise”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Lucas Sequence
-    Exercise”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercise”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercise 7 on page 34.  
@@ -226,7 +226,7 @@ id="2.3.1"></span> 
     Number Theory - Section 2.6: Linear Diophantine Equations”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 2.6: Linear Diophantine
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 2.6: Linear Diophantine Equations” on
@@ -239,7 +239,7 @@ id="2.3.1"></span> 
     Number Theory - Linear Diophantine Equation Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Linear Diophantine Equation
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1, 2, and 4 on page 51.  
@@ -258,7 +258,7 @@ Equations”** <span id="2.3.2"></span> 
     Solutions to Linear Diophantine Equations”**
     Link: The Saylor Foundation’s Sage Lab: [“Visualizing Solutions to
     Linear Diophantine
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the second
