@@ -21,7 +21,7 @@ id="5.1.1"></span> 
     Notations”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Introduction to Chapter 7 and Section 7.1: Basic
-    Notations”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf#_blank)
+    Notations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf#_blank)
     (PDF)  
       
      Instructions: Read the beginning of “Chapter 7 Introduction to
@@ -35,7 +35,7 @@ id="5.1.1"></span> 
     Number Theory: Continued Fractions Basic Notation Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory: Continued Fractions Basic Notation
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf#_blank)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf#_blank)
     (PDF)  
       
      Instructions: Try to do Exercises 1-5 on pages 159-160.  
@@ -53,7 +53,7 @@ id="5.1.1"></span> 
     Number Theory - Section 7.2: Main Technical Tool”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Section 7.2: Main Technical
-    Tool”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Tool”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Read “Section 7.2: Main Technical Tool” on pages
@@ -66,7 +66,7 @@ id="5.1.1"></span> 
     Number Theory - Main Technical Tool Exercises”**
     Link: Wissam Raji’s [“An Introductory Course in Elementary Number
     Theory - Main Technical Tool
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/An-Introductory-Course-in-Elementary-Number-Theory.pdf)
     (PDF)  
       
      Instructions: Try to do Exercises 1-4 on page 164.  
@@ -83,7 +83,7 @@ id="5.1.1"></span> 
 -   **Web Media: The Saylor Foundation’s Sage Lab: “Continued
     Fractions”**
     Link: The Saylor Foundation’s Sage Lab: [“Continued
-    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
+    Fractions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/MA233-SageWorksheets.zip)
     (Sage)  
       
      Instructions: Download the linked set of labs. Upload the sixth one
